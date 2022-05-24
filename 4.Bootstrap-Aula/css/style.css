@@ -1,0 +1,52 @@
+body {
+    font: 20px georgia serif;
+    color: #2c3e50;
+}
+.navbar {
+    background-color: #d5dec8;
+}
+
+
+.logo{
+    margin-left: 5px;
+    border-radius: 50%;
+}
+
+.colapse navbar-colapse{
+    align-items: right;
+}
+
+
+.quemsomos {
+    background-color: #c8dec9;
+    color: #1c1c1c;
+}
+
+body h3 {
+    font-size: 20px;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceiros {
+    background-color: #e1faeb;
+}
+
+.parc{
+    border-radius: 50%;
+    position: center;
+}
+
+.imagem {
+    width: 300px;
+    height: 200px;
+}
+
+.bg-footer {
+    background-color: #e1faeb;
+    text-decoration: underline;
+    color:#2c3e50;
+}
